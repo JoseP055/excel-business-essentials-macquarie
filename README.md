@@ -1,4 +1,4 @@
-# Excel para Negocios: Fundamentos
+# Excel Skills for Business: Essentials
 
 Este repositorio contiene apuntes, prácticas y materiales relacionados con el curso **"Excel Skills for Business: Essentials"** ofrecido por **Macquarie University** a través de **Coursera**.  
 Su propósito es documentar el proceso de aprendizaje, aplicar los conceptos en ejercicios prácticos y consolidar el uso de Excel como herramienta profesional para análisis y gestión de datos.

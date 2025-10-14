@@ -1,4 +1,4 @@
-# Módulo 1 - Fundamentos de Excel
+# Módulo 1 - Excel Skills for Business: Essentials
 
 ## Descripción
 En este módulo se abordan los conceptos básicos de Excel, incluyendo la interfaz de usuario, terminología esencial, navegación en hojas de cálculo y prácticas iniciales de ingreso de datos.
