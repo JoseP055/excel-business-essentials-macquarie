@@ -65,6 +65,8 @@ Los ejercicios y conjuntos de datos utilizados para reforzar los conocimientos d
 
 ---
 
+## Modulo terminado
+
 ## Referencias
 
 - *Excel Skills for Business: Essentials* — Macquarie University  
