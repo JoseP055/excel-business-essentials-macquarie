@@ -54,4 +54,4 @@ No se redistribuye contenido oficial ni material protegido por derechos de autor
 **Jose Pablo Barrantes Jiménez**  
 Correo: [jospaba12@gmail.com](mailto:jospaba12@gmail.com)  
 LinkedIn: [Jose Pablo Barrantes Jiménez](https://www.linkedin.com/in/josep55)  
-Estudiante de Ingeniería en Sistemas | Enfocado en Ciencia de Datos y Analítica Empresarial
+Estudiante de Ingeniería en Sistemas | Enfocado en Ciencia de Datos y Analítica Empresarial.
